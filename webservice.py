@@ -12,7 +12,7 @@ import sys
 import json
 import requests
 
-PORT = 8080
+PORT = 80
 
 #Dictionary containing animals
 animals = dict({
