@@ -6,7 +6,7 @@ Cloud Computing Homework 2: Docker and Web Services
 ### Spirit Animal Generator with a Street Perspective
 
 #### Usage
-Enter http://127.0.0.1:8080/spirit?animals= into your browser, adding an animal to the end of the url as the GET parameter (*i.e. http://127.0.0.1:8080/spirit?animals=Bear*)
+(With Docker instance running) Enter http://127.0.0.1:8181/spirit?animals= into your browser, adding an animal to the end of the url as the GET parameter (*i.e. http://127.0.0.1:8080/spirit?animals=Bear*)
 A JSON object is returned, containing a spiritanimal.info description and urbandictionary.com meaning and examples for the animal.
 
 ##### The GET parameter options are:
@@ -37,8 +37,9 @@ A JSON object is returned, containing a spiritanimal.info description and urband
 
 #### Example
 **_Url Input:_** 
+(With Docker instance running)
 
-`http://127.0.0.1:8080/spirit?animals=Coyote`
+`http://127.0.0.1:8181/spirit?animals=Coyote`
 
 **_Browser Output:_**
 
