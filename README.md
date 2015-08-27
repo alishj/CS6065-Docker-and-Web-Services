@@ -1,7 +1,11 @@
-cloudcomputingH2
+Docker and Web Services
 ================
 
-Cloud Computing Homework 2: Docker and Web Services
+CS6065 Intro to Cloud Computing Homework 2
+
+*Cloned from University of Cincinnati's git site, github.uc.edu*
+
+*Assignment Outline: https://docs.google.com/document/d/1UxhGf6LX6xTjjml8N3AxLlztNgC3iDKruMa1XGs47Vc/*
 
 ### Spirit Animal Generator with a Street Perspective
 
